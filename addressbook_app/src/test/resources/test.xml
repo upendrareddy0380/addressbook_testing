@@ -1,0 +1,7 @@
+<suite name="addressbook">
+ <test name="addressbook_test">
+  <classes>
+    <class name="addressbook.Contacts" />
+  </classes>
+ </test>
+</suite>
